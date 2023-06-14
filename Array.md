@@ -18,15 +18,16 @@ Jagged Array is nothing but accourding to the user you can change the size of ar
 		   }
 
 
-# Array of Objects
+# Array of Objects :
+Create an object of a class and then assign those objects to an Array
 ### Ex:
-class Student{
+	class Student{
 	int rollNo;
 	String name;
 	float marks;
-}
+	}
 
-public class ArrayOfObjects {
+	public class ArrayOfObjects {
 
 	public static void main(String[] args) {
 		//Create a student object and then assign those objects to an Array
