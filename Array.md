@@ -3,7 +3,7 @@
 Jagged Array is nothing but accourding to the user you can change the size of array. So for Jagged array you have to declare individual value of the internal array.
 ## How ro declare Jagged array:
 ### EX:
-int arr[][]=new int[3][];   //Jagged Array declaration
+		int arr[][]=new int[3][];   //Jagged Array declaration
 		arr[0] = new int[3];        // Individual declaration of Jagged array's value
 		arr[1] = new int[2];
 		arr[2] = new int[5];
