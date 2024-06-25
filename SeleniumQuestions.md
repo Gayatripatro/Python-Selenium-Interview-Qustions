@@ -23,6 +23,17 @@
 > * Acceptance Testing: Testing the software in the real-world environment to ensure it meets business needs.
 > * Regression Testing: Re-testing after changes to ensure existing functionality is not broken.
 
+* Difference between Smoke and Sanity
+> Ans: ![image](https://github.com/Gayatripatro/Python-Selenium-Interview-Qustions/assets/62832475/802ae96d-6e90-42b9-91d9-1283bff6a93b)
+
+* Difference between Smoke and Unit Tesing
+> Ans: ![image](https://github.com/Gayatripatro/Python-Selenium-Interview-Qustions/assets/62832475/7016ef61-98a9-49c6-be32-8432c47731c8)
+
+* Difference between Regression and Unit Tesing
+> Ans: ![image](https://github.com/Gayatripatro/Python-Selenium-Interview-Qustions/assets/62832475/0a50513d-d546-4e01-a114-a274ea2a9d8d)
+
+
+
 
 
 
